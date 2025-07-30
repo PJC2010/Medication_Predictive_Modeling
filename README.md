@@ -50,7 +50,7 @@ The model was highly successful in predicting future non-adherence, leading to s
 
 ## 6. How the Code Works
 
-The `medication_adherence_model.py` script simulates the end-to-end process:
+The `main.py` script simulates the end-to-end process:
 
 1.  **Simulates Data**: Creates realistic member and pharmacy claims data for the three medication classes.
 2.  **Calculates PDC**: Defines a function to calculate the Proportion of Days Covered (PDC) and engineer features from the claims data.
